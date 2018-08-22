@@ -1,0 +1,12 @@
+/*header input[type=submit],
+header input[type=checkbox] {
+  width: 300px;
+  margin-right: 100px;
+}
+header input[type=checkbox] {
+  margin: 0;
+}*/
+
+.form .search {
+	margin-left: 200px;
+}
